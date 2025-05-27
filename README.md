@@ -6,7 +6,7 @@
 
 
 ### 1. Циклы
-[![Открыть код](https://img.shields.io/badge/Код-ЦИКЛЫ-blue)](https://github.com/flash1818/fishmen/tree/main/%D1%86%D0%B8%D0%BA%D0%BB))
+[![Открыть код](https://img.shields.io/badge/Код-ЦИКЛЫ-blue)](https://github.com/flash1818/fishmen/tree/main/%D1%86%D0%B8%D0%BA%D0%BB)
 
 
 ### 2. Калькулятор

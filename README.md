@@ -25,7 +25,7 @@
 
 
 ### 6. Задания CodeRun
-[![Открыть код](https://img.shields.io/badge/Код-МАССИВЫ-blue)](https://github.com/flash1818/fishmen/tree/main/coderun)
+[![Открыть код](https://img.shields.io/badge/Код-CODERUN-blue)](https://github.com/flash1818/fishmen/tree/main/coderun)
 
 ### 7. Блок-схемы
 [![Документ](https://img.shields.io/badge/Документ-БЛОК--СХЕМА-yellow)](https://github.com/flash1818/fishmen/tree/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0)
